@@ -1,5 +1,3 @@
-# Create README.md file with the documentation
-@'
 # 📱 Eye Care Reminder App - Technical Documentation
 
 ## 📋 Overview
@@ -109,5 +107,5 @@ User Action → Flutter → Android Service → Screen Event → WorkManager →
 [Stop App]  → [Stop]  → [Destroy]    → [SCREEN_OFF] → [Cancel All]    → [✖️ Stop]
 
 Maintained by: Dildar Hussain
-Last Updated: $(Get-Date -Format "2026-01-06")
+Last Updated: $("2026-01-06")
 Version: 1.0.0
